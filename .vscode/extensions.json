@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "johnnymorganz.luau-lsp"
+    ],
+    "unwantedRecommendations": [
+        "UnderMyWheel.roblox-lua",
+        "msix29.roblox-luau-language-server",
+        "Nightrains.robloxlsp",
+        "hdeviscute.krnllsp",
+        "danielAyeCodesense.roblox-lsp-plus-knit"
+    ]
+}

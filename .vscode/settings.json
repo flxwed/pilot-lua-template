@@ -1,0 +1,8 @@
+{
+    "luau-lsp.sourcemap.enabled": false,
+    "luau-lsp.types.roblox": true,
+    "luau-lsp.types.definitionFiles": [
+        "types/pilot.d.lua",
+    ],
+    "luau-lsp.completion.imports.requireStyle": "alwaysAbsolute",
+}
