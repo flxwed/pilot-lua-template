@@ -1,0 +1,22 @@
+{
+    "generator": "dense",
+    "bundle": {
+        "require_mode": {
+            "name": "path"
+        }
+    },
+    "rules": [
+        "remove_comments",
+        "remove_spaces",
+        {
+            "rule": "inject_global_value",
+            "identifier": "DEBUG",
+            "value": false
+        },
+        "remove_nil_declaration",
+        "compute_expression",
+        "remove_unused_if_branch",
+        "filter_after_early_return",
+        "remove_empty_do"
+    ]
+}
