@@ -3,6 +3,7 @@
 
 ## Features
 - Full code completion using [Luau LSP](https://github.com/JohnnyMorganz/luau-lsp) and [autopilot.lua](https://github.com/flxwed/autopilot.lua)
+- Code formatting and linting using [StyLua](https://github.com/JohnnyMorganz/StyLua) and [Selene](https://github.com/Kampfkarren/selene) (Requires extension)
 - Compiles into a single, obfuscated script ready for microcontrollers using [darklua](https://github.com/seaofvoices/darklua)
 
 ## Getting Started

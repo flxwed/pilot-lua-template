@@ -1,6 +1,8 @@
 {
     "recommendations": [
-        "johnnymorganz.luau-lsp"
+        "johnnymorganz.luau-lsp",
+        "kampfkarren.selene-vscode",
+        "johnnymorganz.stylua"
     ],
     "unwantedRecommendations": [
         "UnderMyWheel.roblox-lua",
