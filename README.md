@@ -21,8 +21,8 @@ To build:
 2. Build the project with darklua
 
 ```bash
-darklua minify src/init.lua build/bundle.lua
-> successfully minified 1 file (in 7.6709ms)
+darklua process src/init.lua build/bundle.lua
+> successfully processed 1 file (in 7.6709ms)
 ```
 
 The file will be written to `build/bundle.lua`.
